@@ -11,9 +11,14 @@ Instantly convert curl commands to PHP code
 The quick and simple editor for cron schedule expressions
 
 ## A11Y
+* https://contrast-ratio.com : Easily calculate color contrast ratios
+* http://contrast-finder.tanaguru.com : Find alternative color to fit constrast ratios requirements
 
-### https://contrast-ratio.com
-Easily calculate color contrast ratios
+## CSS
+* https://cssgrid-generator.netlify.com : Online GUI to design css grids
 
-### http://contrast-finder.tanaguru.com
-Find alternative color to fit constrast ratios requirements
+## JS
+* https://arrayexplorer.netlify.com
+
+## Emails
+* https://github.com/hteumeuleu/email-guidelines : HTML Emails best practices
