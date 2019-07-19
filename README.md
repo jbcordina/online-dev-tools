@@ -4,9 +4,7 @@
 * https://incarnate.github.io/curl-to-php/ : Instantly convert curl commands to PHP code
 
 ## CRON
-
-### https://crontab.guru
-The quick and simple editor for cron schedule expressions
+* https://crontab.guru : The quick and simple editor for cron schedule expressions
 
 ## A11Y
 * https://contrast-ratio.com : Easily calculate color contrast ratios
