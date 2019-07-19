@@ -1,4 +1,4 @@
-# Bests onlines tools for web development
+# Bests onlines tools / resources for web development
 
 ## PHP
 * https://incarnate.github.io/curl-to-php/ : Instantly convert curl commands to PHP code
